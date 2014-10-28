@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"AngularJS",
+		"ApplySyntax",
+		"Better CoffeeScript",
+		"Better RSpec",
+		"CoffeeCompile",
+		"Delete Current File",
+		"Git",
+		"GitDiffHelper",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Pretty JSON",
+		"RSpecNavigator",
+		"RubyTest",
+		"SideBarEnhancements",
+		"Theme - Spacegray",
+		"TrailingSpaces"
+	]
+}
